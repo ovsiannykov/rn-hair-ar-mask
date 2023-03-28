@@ -10,15 +10,4 @@ export default StyleSheet.create({
     fontSize: 24,
     fontWeight: '600',
   },
-  camera_btn: {
-    backgroundColor: 'blue',
-    paddingHorizontal: 18,
-    paddingVertical: 12,
-    marginTop: 12,
-    borderRadius: 18,
-  },
-  camera_title: {
-    color: 'white',
-    fontWeight: '600',
-  },
 });
